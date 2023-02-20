@@ -10,3 +10,6 @@
 
 #note: you need your own openai api key (can get from openai, sign in for free with google and click profile to access secret api key),
 #copy and paste key as a string delimited by " " to replace YOUR_API_KEY in code before running
+
+#from tutorial by https://towardsdatascience.com/gpt-3-play-chess-d123a96096a9 
+
